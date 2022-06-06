@@ -11,10 +11,10 @@ from tkinter import messagebox
 HOST = '127.0.0.1'
 PORT = 1234
 
-DARK_GREY = '#121212'
-MEDIUM_GREY = '#1F1B24'
+DARK_GREY = '#749E9F'
+MEDIUM_GREY = '#B8D8D8'
 WHITE = "white"
-OCEAN_BLUE = '#464EB8'
+OCEAN_BLUE = '#4F6367'
 FONT = ('Helvetica', 17)
 BUTTON_FONT = ('Helvetica', 15)
 SMALL_FONT = ('Helvetica', 13)
