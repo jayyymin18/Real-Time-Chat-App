@@ -11,9 +11,9 @@ from tkinter import messagebox
 HOST = '127.0.0.1'
 PORT = 1234
 
-DARK_GREY = '#749E9F'
-MEDIUM_GREY = '#B8D8D8'
-WHITE = "white"
+DARK_GREY = '#B8D8D8'
+MEDIUM_GREY = '#749E9F'
+WHITE = "#EEF5DB"
 OCEAN_BLUE = '#4F6367'
 FONT = ('Helvetica', 17)
 BUTTON_FONT = ('Helvetica', 15)
